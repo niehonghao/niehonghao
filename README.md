@@ -3,3 +3,6 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=niehonghao&show_icons=true&theme=dark&count_private=true)
+
+<!-- 访客数统计徽标 -->
+ <img src="https://visitor-badge.glitch.me/badge?page_id=niehonghao" alt="访客统计" /></div>
