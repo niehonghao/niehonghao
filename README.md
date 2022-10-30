@@ -12,7 +12,7 @@
 
 ### 🧩 Libraries & Framework
 
-![Spring](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring](https://img.shields.io/badge/Spring-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SpringBoot](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white)
 ![SpringSecurity](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SpringCloud](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
