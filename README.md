@@ -13,7 +13,7 @@
 ![VS%20Code](https://img.shields.io/badge/-VS%20Code-black?logo=Visual%20Studio%20Code&logoColor=059df4&style=for-the-badge)
 
 ## 🚀 My Stats
-![Furqan's GitHub stats](https://github-readme-stats.vercel.app/api?username=niehonghao&show_icons=true&theme=aura)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niehonghao&theme=vision-friendly-dark&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=niehonghao&theme=java-dark&locale=zh)](https://git.io/streak-stats)
 
