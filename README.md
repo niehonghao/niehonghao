@@ -5,7 +5,7 @@
 
 ### 👨‍💻 Languages
 ![Java](https://custom-icon-badges.herokuapp.com/badge/Java-05122A.svg?style=plastic&logo=java&logoColor=007396)
-![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-05122A?&style=plastic&logo=database&logoColor=025E8C)
+![SQL](https://custom-icon-badges.herokuapp.com/badge/MySQL-05122A?&style=plastic&logo=database&logoColor=025E8C)
 ![Git](https://img.shields.io/badge/Git-05122A?style=plastic&logo=Git&logoColor=F05032)
 
 ## 🧰 My Toolbox:
