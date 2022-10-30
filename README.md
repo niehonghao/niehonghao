@@ -20,7 +20,6 @@
 
 ## 🚀 My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niehonghao&theme=vision-friendly-dark&show_icons=true)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=niehonghao&theme=java-dark&locale=zh)](https://git.io/streak-stats)
 
 ## 📈 GitHub Activity Graph
