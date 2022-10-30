@@ -15,7 +15,7 @@
 ## 🚀 My Stats
 ![Furqan's GitHub stats](https://github-readme-stats.vercel.app/api?username=niehonghao&show_icons=true&theme=aura)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=niehonghao&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=niehonghao&theme=blood-dark&locale=zh)](https://git.io/streak-stats)
 
 ## 📈 GitHub Activity Graph:
 ![Furqan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=niehonghao&hide_border=true&theme=redical)
