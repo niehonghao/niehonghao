@@ -6,3 +6,6 @@
 
 <!-- 访客数统计徽标 -->
  <img src="https://visitor-badge.glitch.me/badge?page_id=niehonghao" alt="访客统计" /></div>
+ 
+ <!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/niehonghao/niehonghao/contribution-snake/github-contribution-grid-snake.svg" /></div>
