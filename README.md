@@ -20,16 +20,19 @@
 
 ## ⚡ Frame
 ![Spring](https://img.shields.io/badge/-spring-black?logo=Spring&style=for-the-badge&logoColor=dc14d0)
-![SpringBoot](https://img.shields.io/badge/-springboot-black?logo=SpringBoot&style=for-the-badge&logoColor=dc14d0)
+![SpringBoot](https://img.shields.io/badge/-spring%20boot-black?logo=SpringBoot&style=for-the-badge&logoColor=dc14d0)
 ![SpringSecurity](https://img.shields.io/badge/-Spring%20Security-black?logo=springsecurity&style=for-the-badge&logoColor=dc14d0)
 ![Redis](https://img.shields.io/badge/-redis-black?logo=redis&style=for-the-badge&logoColor=dc14d0)
 ![Swagger](https://img.shields.io/badge/-Swagger-black?logo=swagger&style=for-the-badge&logoColor=dc14d0)
+![SpringCloud](https://img.shields.io/badge/-Spring%20Cloud-black?logo=springcloud&style=for-the-badge&logoColor=dc14d0)
+![MyBatis](https://img.shields.io/badge/-MyBaits-black?logo=mybatis&style=for-the-badge&logoColor=dc14d0)
 
 
 ## 🧰 My Toolbox
 ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-black?logo=IntelliJ%20IDEA&style=for-the-badge&logoColor=dc14d0)
-![Postman](https://img.shields.io/badge/-postman-black?logo=postman&style=for-the-badge&logoColor=dc14d0)
 ![Github](https://img.shields.io/badge/-github-black?logo=Github&style=for-the-badge&logoColor=dc14d0)
+![Postman](https://img.shields.io/badge/-postman-black?logo=postman&style=for-the-badge&logoColor=dc14d0)
+![Navicat](https://img.shields.io/badge/-Navicat-black?logo=navicat&style=for-the-badge&logoColor=dc14d0)
 
 ## 🚀 My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niehonghao&theme=vision-friendly-dark&show_icons=true)
