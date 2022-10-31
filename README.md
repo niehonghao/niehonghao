@@ -6,7 +6,7 @@
 <img align="right" alt="GIF" src="https://github.com/niehonghao/niehonghao/blob/main/resources/2.gif" width="200px" height="150px"/>
 <p>✍️&nbsp;&nbsp;大家好，我是聂同学!目前就读于四川大学锦江学院软件工程专业.</p>
 <p>🔭&nbsp;&nbsp;我目前正在研究Java数据结构与算法,微服务技术.</p>
-<p>🥅&nbsp;&nbsp;希望未来自己改掉坏习惯,保持清醒,保持渴望,一直热情.</p>
+<p>🥅&nbsp;&nbsp;希望未来自己丢掉坏习惯,保持清醒,保持渴望,一直热情,一直努力,一直向前奔跑.</p>
 <p>🌱&nbsp;&nbsp;爱我的人,我爱的人都平平安安，身体健康.</p>
 <b>❤️&nbsp;&nbsp;Peace and Love.</b>
 
