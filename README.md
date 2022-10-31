@@ -3,7 +3,7 @@
 </p>
 
 ## 🙋 Hello
-<img align="right" alt="GIF" src="https://github.com/niehonghao/niehonghao/blob/main/1.gif" width="400px" height="250px"/>
+<img align="right" alt="GIF" src="https://github.com/niehonghao/niehonghao/blob/main/1.gif" width="200px" height="150px"/>
 <p>✍️&nbsp;&nbsp;大家好，我是聂同学! 目前就读于四川大学锦江学院软件工程专业。</p>
 <p>&emsp;&emsp;Do not go gentle into that good night.</p>
 <p>&emsp;&emsp;不要温和地走进那个良夜。</p>
