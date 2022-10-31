@@ -3,7 +3,7 @@
 </p>
 
 ## 🙋 Hello
-<img align="right" alt="L for Light" src="https://github.com/krniya/krniya/blob/main/Assets/l.gif" width="300" height="250" />
+<img align="right" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="400px" height="250px"/>
 <p>✍️&nbsp;&nbsp;大家好，我是聂同学! 目前就读于四川大学锦江学院软件工程专业。</p>
 <p>&emsp;&emsp;Do not go gentle into that good night.</p>
 <p>&emsp;&emsp;不要温和地走进那个良夜。</p>
