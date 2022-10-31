@@ -17,7 +17,6 @@
 ![C++](https://img.shields.io/badge/-c++-black?logo=cplusplus&style=for-the-badge&logoColor=dc14d0)
 ![Python](https://img.shields.io/badge/-python-black?logo=python&style=for-the-badge&logoColor=dc14d0)
 ![Git](https://img.shields.io/badge/-git-black?logo=Git&style=for-the-badge&logoColor=dc14d0)
-![Github](https://img.shields.io/badge/-github-black?logo=Github&style=for-the-badge&logoColor=dc14d0)
 
 ## ⚡ Frame
 ![Spring](https://img.shields.io/badge/-spring-black?logo=Spring&style=for-the-badge&logoColor=dc14d0)
@@ -30,6 +29,7 @@
 ## 🧰 My Toolbox
 ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-black?logo=IntelliJ%20IDEA&style=for-the-badge&logoColor=dc14d0)
 ![Postman](https://img.shields.io/badge/-postman-black?logo=postman&style=for-the-badge&logoColor=dc14d0)
+![Github](https://img.shields.io/badge/-github-black?logo=Github&style=for-the-badge&logoColor=dc14d0)
 
 ## 🚀 My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niehonghao&theme=vision-friendly-dark&show_icons=true)
