@@ -2,13 +2,11 @@
   <img src="https://github.com/arth2002/arth2002/blob/main/gif/ezgif.com-gif-maker.gif" alt="GIF is being loaded">
 </p>
 
-
 ## 🙋 Hello
 
 <p>✍️&nbsp;&nbsp;大家好，我是聂同学! 目前就读于四川大学锦江学院软件工程专业。</p>
 <p>&emsp;&emsp;Do not go gentle into that good night.</p>
 <p>&emsp;&emsp;不要温和地走进那个良夜。</p>
-
 
 ## 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/-java-black?logo=java&style=for-the-badge&logoColor=dc14d0)
@@ -28,7 +26,6 @@
 ![SpringCloud](https://img.shields.io/badge/-Spring%20Cloud-black?logo=springcloud&style=for-the-badge&logoColor=dc14d0)
 ![MyBatis](https://img.shields.io/badge/-MyBaits-black?logo=mybatis&style=for-the-badge&logoColor=dc14d0)
 
-
 ## 🧰 My Toolbox
 ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-black?logo=IntelliJ%20IDEA&style=for-the-badge&logoColor=dc14d0)
 ![Bilibili](https://img.shields.io/badge/-bilibili-black?logo=bilibili&style=for-the-badge&logoColor=dc14d0)
@@ -38,13 +35,8 @@
 ![Navicat](https://img.shields.io/badge/-Navicat-black?logo=navicat&style=for-the-badge&logoColor=dc14d0)
 
 ## 🚀 My Stats
-<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niehonghao&theme=vision-friendly-dark&show_icons=true)
-  <img width="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/>
-</div>
 [![GitHub Streak](https://streak-stats.demolab.com?user=niehonghao&theme=java-dark&locale=zh)](https://git.io/streak-stats)
-<!-- 敲代码的图片 -->
-
 
 ## 📈 GitHub Activity Graph
 [![nhh's github activity graph](https://activity-graph.herokuapp.com/graph?username=niehonghao&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
