@@ -17,7 +17,7 @@
 ![Python](https://img.shields.io/badge/-python-black?logo=python&style=for-the-badge&logoColor=dc14d0)
 
 ## 🧰 My Toolbox
-![intellij%20idea%20ultimate](https://img.shields.io/badge/-intellij%20idea%20ultimate-black?logo=IntelliJ%20IDEA&logoColor=dc14d0&style=for-the-badge)
+![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-black?logo=IntelliJ%20IDEA&style=for-the-badge&logoColor=dc14d0)
 
 ## 🚀 My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niehonghao&theme=vision-friendly-dark&show_icons=true)
