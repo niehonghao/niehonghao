@@ -8,6 +8,7 @@
 <p>🔭&nbsp;&nbsp;我目前正在研究Java数据结构与算法,微服务技术.</p>
 <p>🥅&nbsp;&nbsp;希望未来自己改掉坏习惯,保持清醒,保持渴望,一直热情.</p>
 <p>🌱&nbsp;&nbsp;爱我的人,我爱的人都平平安安，身体健康.</p>
+<p font-weight:bold>❤️&nbsp;&nbsp;Peace and Love.</p>
 
 <div align="center">
 <h2><i>Do not go gentle into that good night.</i></h2>
