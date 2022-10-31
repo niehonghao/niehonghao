@@ -12,7 +12,9 @@
 
 ## 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/-java-black?logo=java&style=for-the-badge&logoColor=dc14d0)
-![mysql](https://img.shields.io/badge/-mysql-black?logo=mysql&style=for-the-badge&logoColor=dc14d0)
+![MySQL](https://img.shields.io/badge/-mysql-black?logo=mysql&style=for-the-badge&logoColor=dc14d0)
+![C](https://img.shields.io/badge/-c%20program-black?logo=C&style=for-the-badge&logoColor=dc14d0)
+![Python](https://img.shields.io/badge/-python-black?logo=python&style=for-the-badge&logoColor=dc14d0)
 
 ## 🧰 My Toolbox
 ![intellij%20idea%20ultimate](https://img.shields.io/badge/-intellij%20idea%20ultimate-black?logo=IntelliJ%20IDEA&logoColor=dc14d0&style=for-the-badge)
