@@ -43,7 +43,7 @@
 
 <table align="center">
   <tr>
-    <td>You are visitor</td>
+    <td>Visitors Count</td>
     <td><img src="https://profile-counter.glitch.me/niehonghao/count.svg"/></td>
   </tr>
 </table>
