@@ -38,10 +38,12 @@
 ![Navicat](https://img.shields.io/badge/-Navicat-black?logo=navicat&style=for-the-badge&logoColor=dc14d0)
 
 ## 🚀 My Stats
+<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niehonghao&theme=vision-friendly-dark&show_icons=true)
+  <img width="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/>
+</div>
 [![GitHub Streak](https://streak-stats.demolab.com?user=niehonghao&theme=java-dark&locale=zh)](https://git.io/streak-stats)
 <!-- 敲代码的图片 -->
-<img width="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/>
 
 
 ## 📈 GitHub Activity Graph
