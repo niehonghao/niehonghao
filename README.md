@@ -32,7 +32,7 @@
 ## 🧰 My Toolbox
 ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-black?logo=IntelliJ%20IDEA&style=for-the-badge&logoColor=dc14d0)
 ![Bilibili](https://img.shields.io/badge/-bilibili-black?logo=bilibili&style=for-the-badge&logoColor=dc14d0)
-![Typora][https://img.shields.io/badge/-typora-black?logo=markdown&style=for-the-badge&logoColor=dc14d0]
+![Typora](https://img.shields.io/badge/-typora-black?logo=markdown&style=for-the-badge&logoColor=dc14d0)
 ![Github](https://img.shields.io/badge/-github-black?logo=Github&style=for-the-badge&logoColor=dc14d0)
 ![Postman](https://img.shields.io/badge/-postman-black?logo=postman&style=for-the-badge&logoColor=dc14d0)
 ![Navicat](https://img.shields.io/badge/-Navicat-black?logo=navicat&style=for-the-badge&logoColor=dc14d0)
