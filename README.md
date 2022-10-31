@@ -42,7 +42,7 @@
 ![Navicat](https://img.shields.io/badge/-Navicat-black?logo=navicat&style=for-the-badge&logoColor=dc14d0)
 
 ## 🚀 My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niehonghao&theme=vision-friendly-dark&show_icons=true)
+![nhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=niehonghao&theme=vision-friendly-dark&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=niehonghao&theme=java-dark&locale=zh)](https://git.io/streak-stats)
 
 ## 📈 GitHub Activity Graph
