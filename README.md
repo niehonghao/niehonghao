@@ -13,6 +13,7 @@
 
 <div align="center">
 <h2><i>Do not go gentle into that good night.</i></h2>
+<h2><i>Rage, rage against the dying of the light.</i></h2>
 </div>
 
 ## 👨‍💻 Languages
