@@ -15,6 +15,15 @@
 ![MySQL](https://img.shields.io/badge/-mysql-black?logo=mysql&style=for-the-badge&logoColor=dc14d0)
 ![C](https://img.shields.io/badge/-c%20program-black?logo=C&style=for-the-badge&logoColor=dc14d0)
 ![Python](https://img.shields.io/badge/-python-black?logo=python&style=for-the-badge&logoColor=dc14d0)
+![Git](https://img.shields.io/badge/-git-black?logo=Git&style=for-the-badge&logoColor=dc14d0)
+![Github](https://img.shields.io/badge/-github-black?logo=Github&style=for-the-badge&logoColor=dc14d0)
+
+## ⚡ Frame
+![Spring](https://img.shields.io/badge/-spring-black?logo=Spring&style=for-the-badge&logoColor=dc14d0)
+![SpringBoot](https://img.shields.io/badge/-springboot-black?logo=SpringBoot&style=for-the-badge&logoColor=dc14d0)
+![SpringSecurity](https://img.shields.io/badge/-Spring%20Security-black?logo=springsecurity&style=for-the-badge&logoColor=dc14d0)
+![Redis](https://img.shields.io/badge/-redis-black?logo=redis&style=for-the-badge&logoColor=dc14d0)
+
 
 ## 🧰 My Toolbox
 ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-black?logo=IntelliJ%20IDEA&style=for-the-badge&logoColor=dc14d0)
