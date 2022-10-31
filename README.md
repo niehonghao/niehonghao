@@ -40,6 +40,9 @@
 ## 🚀 My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niehonghao&theme=vision-friendly-dark&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=niehonghao&theme=java-dark&locale=zh)](https://git.io/streak-stats)
+<!-- 敲代码的图片 -->
+<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<br>
 
 ## 📈 GitHub Activity Graph
 [![nhh's github activity graph](https://activity-graph.herokuapp.com/graph?username=niehonghao&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
