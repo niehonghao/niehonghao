@@ -41,4 +41,11 @@
 ## 📈 GitHub Activity Graph
 [![nhh's github activity graph](https://activity-graph.herokuapp.com/graph?username=niehonghao&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niehonghao&row=1" alt="Thejaswin S" /></a> </p>
+<hr>
+<table align="center">
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/niehonghao/count.svg" alt="vistor count" height="30" /></td>
+  </tr>
+</table>
+<hr>
