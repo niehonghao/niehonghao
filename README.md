@@ -36,7 +36,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=niehonghao&theme=java-dark&locale=zh)](https://git.io/streak-stats)
 
 ## 📈 GitHub Activity Graph
-![Furqan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=niehonghao&hide_border=true&theme=redical)
+[![nhh's github activity graph](https://activity-graph.herokuapp.com/graph?username=niehonghao)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=niehonghao)](https://github.com/ryo-ma/github-profile-trophy)
