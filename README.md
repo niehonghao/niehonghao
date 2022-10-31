@@ -4,9 +4,14 @@
 
 ## 🙋 Hello
 <img align="right" alt="GIF" src="https://github.com/niehonghao/niehonghao/blob/main/resources/2.gif" width="200px" height="150px"/>
-<p>✍️&nbsp;&nbsp;大家好，我是聂同学! 目前就读于四川大学锦江学院软件工程专业。</p>
+<p>✍️&nbsp;&nbsp;大家好，我是聂同学!目前就读于四川大学锦江学院软件工程专业.</p>
+<p>🔭&nbsp;&nbsp;我目前正在研究微服务技术</p>
+<p>🥅&nbsp;&nbsp;戒掉坏习惯，养成好习惯</p>
+<p>🔭&nbsp;&nbsp;我目前正在研究微服务技术</p>
 <p>&emsp;&emsp;Do not go gentle into that good night.</p>
 <p>&emsp;&emsp;不要温和地走进那个良夜。</p>
+
+<h2><i>Do not go gentle into that good night.</i></h2>
 
 ## 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/-java-black?logo=java&style=for-the-badge&logoColor=dc14d0)
@@ -26,7 +31,7 @@
 ![SpringCloud](https://img.shields.io/badge/-Spring%20Cloud-black?logo=springcloud&style=for-the-badge&logoColor=dc14d0)
 ![MyBatis](https://img.shields.io/badge/-MyBaits-black?logo=mybatis&style=for-the-badge&logoColor=dc14d0)
 
-## 🧰 My Toolbox
+## 🔧 My Tools
 ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-black?logo=IntelliJ%20IDEA&style=for-the-badge&logoColor=dc14d0)
 ![Bilibili](https://img.shields.io/badge/-bilibili-black?logo=bilibili&style=for-the-badge&logoColor=dc14d0)
 ![Typora](https://img.shields.io/badge/-typora-black?logo=markdown&style=for-the-badge&logoColor=dc14d0)
