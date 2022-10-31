@@ -38,3 +38,5 @@
 ## 📈 GitHub Activity Graph
 [![nhh's github activity graph](https://activity-graph.herokuapp.com/graph?username=niehonghao&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=niehonghao&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
